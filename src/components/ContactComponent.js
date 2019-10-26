@@ -176,7 +176,7 @@ class Contact extends Component {
                                             name="agree"
                                             className="form-check-input" />
                                             {' '}
-                                            <strong>May we caontact you?</strong>
+                                            <strong>May we contact you?</strong>
                                         </Label>
                                     </div>
                                 </Col>
